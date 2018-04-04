@@ -1,0 +1,5 @@
+C:\Users\ahmed\OneDrive\Desktop\friendly conversation with CSharp\friendly conversation with CSharp\bin\Debug\friendly conversation with CSharp.exe.config
+C:\Users\ahmed\OneDrive\Desktop\friendly conversation with CSharp\friendly conversation with CSharp\bin\Debug\friendly conversation with CSharp.exe
+C:\Users\ahmed\OneDrive\Desktop\friendly conversation with CSharp\friendly conversation with CSharp\bin\Debug\friendly conversation with CSharp.pdb
+C:\Users\ahmed\OneDrive\Desktop\friendly conversation with CSharp\friendly conversation with CSharp\obj\Debug\friendly conversation with CSharp.exe
+C:\Users\ahmed\OneDrive\Desktop\friendly conversation with CSharp\friendly conversation with CSharp\obj\Debug\friendly conversation with CSharp.pdb
